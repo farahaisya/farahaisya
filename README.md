@@ -8,7 +8,7 @@ I am currently studying Bachelor of Computer Science (Data Engineering) with Hon
 
 * 🌍  I'm based in Johor, Malaysia
 * ✉️  You can contact me at [mmfarhsya@gmail.com](mailto:mmfarhsya@gmail.com)
-* 🧠  I'm currently learning C++
+* 🧠  I'm currently learning C++ & HTML
 * 🍪  I love baking
 
 <p align="left">
