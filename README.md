@@ -7,7 +7,7 @@ Student at University of Technology Malaysia (UTM)
 I am currently studying Bachelor of Computer Science (Data Engineering) with Honours
 
 * 🌍  I'm based in Johor, Malaysia
-* ✉️  You can contact me at [mmfarhsya@gmail.com](mailto:mmfarhsya@gmail.com)
+* ✉️  You can contact me at [farah.aisya@graduate.utm.my](mailto:farah.aisya@graduate.utm.my)
 * 🧠  I'm currently learning C++ & HTML
 * 🍪  I love baking
 
