@@ -62,21 +62,3 @@
 | 39 | Selangor        | Cyberjaya      | 24  | Female | AI Research Assistant| 3800 |
 | 40 | Selangor        | Subang Jaya    | 45  | Male   | IT Consultant        | 9200 |
 
----
-
-## 🔁 Records 41–100
-
-For records **41–100**, the data continues with similar realistic patterns, varying:
-
-- States (all Malaysian states represented)
-- Ages (21–60)
-- Occupations (IT, Education, Healthcare, Engineering, Business, Government)
-- Monthly income (MYR 1,000 – 10,000)
-
-> If you need:
-> - the **full 100-row table displayed**,  
-> - **CSV / Excel format**, or  
-> - **AI/ML-ready dataset (with labels)**  
-
-Just tell me 👍
-
