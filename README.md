@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student at University of Technology Malaysia (UTM)
 --------------------------------------------------
 
-I am currently studying Bachelor of Computer Science (Data Engineering) with Honours
+I am currently pursuing a Bachelor of Computer Science (Data Engineering) with Honours
 
 * 🌍  I'm based in Johor, Malaysia
 * ✉️  You can contact me at [farah.aisya@graduate.utm.my](mailto:farah.aisya@graduate.utm.my)
