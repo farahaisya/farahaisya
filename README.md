@@ -12,7 +12,7 @@ I am now pursuing a Bachelor of Computer Science (Data Engineering) with Honours
 
 EDUCATION
 - SMK Bandar Tun Razak (2019-2024)
-- Science Stream
+  Science Stream
 - SPM: 6A
 
 - Kolej Matrikulasi Pahang (2024-2025)
