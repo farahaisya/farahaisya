@@ -10,7 +10,7 @@ I am now pursuing a Bachelor of Computer Science (Data Engineering) with Honours
 * ✉️  You can contact me at [farah.aisya@graduate.utm.my](mailto:farah.aisya@graduate.utm.my)
 * 🧠  I'm currently learning C++ & HTML
 
-##EDUCATION
+## EDUCATION
 * **SMK Bandar Tun Razak (2019-2024)
 * Science Stream
 * SPM: 6A
@@ -23,7 +23,7 @@ I am now pursuing a Bachelor of Computer Science (Data Engineering) with Honours
 * **Universiti Teknologi Malaysia (2025-2029)
 * Bachelor of Computer Science (Data Engineering) with Honours
 
-  ## Position & Involvement
+  ## POSITION & INVOLVEMENT
   * President of Computer Science club (2024)
   * Vice President of Pingpong club (2024)
   * Matriculation Jamboree Gen Madani committee (2025)
