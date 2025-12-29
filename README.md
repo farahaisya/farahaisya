@@ -11,17 +11,17 @@ I am now pursuing a Bachelor of Computer Science (Data Engineering) with Honours
 * 🧠  I'm currently learning C++ & HTML
 
 ## EDUCATION
-* **SMK Bandar Tun Razak (2019-2024)
+* **SMK Bandar Tun Razak (2019-2023)**
 * Science Stream
 * SPM: 6A
 
-* **Kolej Matrikulasi Pahang (2024-2025)
+* **Kolej Matrikulasi Pahang (2024-2025)**
 * Computer Science
 * CGPA: 3.96
 * MUET: Band 4
 
-* **Universiti Teknologi Malaysia (2025-2029)
-* Bachelor of Computer Science (Data Engineering) with Honours
+* **Universiti Teknologi Malaysia (2025-2029)**
+* Bachelor of Computer Science (Data Engineering) with honours
 
   ## POSITION & INVOLVEMENT
   * President of Computer Science club (2024)
