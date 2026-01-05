@@ -26,6 +26,7 @@ I am now pursuing a Bachelor of Computer Science (Data Engineering) with Honours
   ## POSITION & INVOLVEMENT
   * President of Computer Science club (2024)
   * Vice President of Pingpong club (2024)
+  * CODE'26 crew (2026)
   * Matriculation Jamboree Gen Madani committee (2025)
   * SUSKOM'25 crew (2025)
   * Multimedia crew for Escape Room under TCELC club (2025)
