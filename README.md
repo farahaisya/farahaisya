@@ -32,6 +32,13 @@ I am now pursuing a Bachelor of Computer Science (Data Engineering) with Honours
   * Multimedia crew for Escape Room under TCELC club (2025)
   * Sport manager of UTM Games (2025)
   * Facilitator Do It! Program Biology (2024-2025)
+  * Multimedia crew for Busking Competition (2025)
+ 
+  ## ACHIEVEMENTS
+  * Volunteer for Matriculation Jamboree (2025)
+  * Participation MATRIX eXTRA QUIZ CHALLENGE (MeX-Q) (2024)
+  * 1st place sudoku competition (2022)
+  * 3rd place cube rubic competition (2023)
 
 ## SKILLS
 
