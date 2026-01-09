@@ -21,7 +21,7 @@ I am now pursuing a Bachelor of Computer Science (Data Engineering) with Honours
       * MUET: Band 4
 
   * **Universiti Teknologi Malaysia (2025-2029)**
-      * Bachelor of Computer Science (Data Engineering) with honours
+      * Bachelor of Computer Science (Data Engineering) with Honours
 
   ## POSITION & INVOLVEMENT
   * President of Computer Science club (2024)
