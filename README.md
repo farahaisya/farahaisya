@@ -10,7 +10,7 @@ I am now pursuing a Bachelor of Computer Science (Data Engineering) with Honours
 * ✉️  You can contact me at [farah.aisya@graduate.utm.my](mailto:farah.aisya@graduate.utm.my)
 * 🧠  I'm currently learning C++ & HTML
 
-  ## EDUCATION
+  ## 🎓EDUCATION
   * **SMK Bandar Tun Razak (2019-2023)**
       * Pure Science
       * SPM: 6A
@@ -34,24 +34,24 @@ I am now pursuing a Bachelor of Computer Science (Data Engineering) with Honours
   * Facilitator Do It! Program Biology (2024-2025)
   * Multimedia crew for Busking Competition (2025)
  
-  ## ACHIEVEMENTS
+  ## 🏆ACHIEVEMENTS
   * Volunteer for Matriculation Jamboree (2025)
   * Participation MATRIX eXTRA QUIZ CHALLENGE (MeX-Q) (2024)
   * 1st place sudoku competition (2022)
   * 3rd place cube rubic competition (2023)
 
-  ## SKILLS
+  ## 💻SKILLS
 
   <p align="left">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a>
   </p>
 
-  ## SOCIALS
+  ## 📱SOCIALS
 
   <p align="left"> <a href="https://www.github.com/farahaisya" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.linkedin.com/in/FarahAisya" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" />       </picture> </a></p>
 
   ## PORTFOLIO WEBSITE
-  * <a href="https://farahaisya.github.io/Portfolio/">View here </a>
+  * 🔗Click here to see my e-portfolio <a href="https://farahaisya.github.io/Portfolio/">View here </a>
 
   ### Badges
 <b>My GitHub Stats</b>
