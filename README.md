@@ -18,7 +18,7 @@ I am now pursuing a Bachelor of Computer Science (Data Engineering) with Honours
   * **Kolej Matrikulasi Pahang (2024-2025)**
       * Computer Science
       * CGPA: 3.96
-      * MUET: Band 4
+      * MUET: 4.0
 
   * **Universiti Teknologi Malaysia (2025-2029)**
       * Bachelor of Computer Science (Data Engineering) with Honours
