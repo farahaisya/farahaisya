@@ -24,7 +24,7 @@ I am now pursuing a Bachelor of Computer Science (Data Engineering) with Honours
       * Bachelor of Computer Science (Data Engineering) with Honours
 
   ## POSITION & INVOLVEMENT
-  * President of Computer Science club (2024)
+  * President of Computer Science club (2023)
   * Vice President of Pingpong club (2024)
   * CODE'26 crew (2026)
   * Matriculation Jamboree Gen Madani committee (2025)
